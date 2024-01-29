@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-    const [kage]  = "du får kage"
+    const [kage]  = ("du får kage")
 if (count ==10) {
     kage
 }
@@ -18,6 +18,9 @@ if (count ==10) {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+          <a href="https://www.Youtube.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" />
+          </a>
+
       </div>
       <h1>Vite + React</h1>
       <div className="card">
@@ -25,7 +28,6 @@ if (count ==10) {
           count is {count}
         </button>
         <p>
-
           Edit få 10 and bliv uBongoet
         </p>
 
@@ -33,15 +35,8 @@ if (count ==10) {
         <p className="read-the-docs">
             Click on the Vite and React logos to learn more
         </p>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
-
-
-
-
 }
 
 export default App
