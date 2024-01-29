@@ -28,7 +28,11 @@ if (count ==10) {
 
           Edit få 10 and bliv uBongoet
         </p>
+
       </div>
+        <p className="read-the-docs">
+            Click on the Vite and React logos to learn more
+        </p>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
