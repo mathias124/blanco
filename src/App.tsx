@@ -38,20 +38,17 @@ if (uBongoCounter ==10) {
           count is {uBongoCounter}
         </button>
         <p>
-          Edit få 10 and bliv uBongoet
+          Få 10 og bliv uBongoet
         </p>
           <div>
 
-          <a href="https://twitter.com" target="_blank">
+          <a href="https://twitter.com/bulgunir" target="_blank">
               <img src={"https://media1.tenor.com/m/XegHfcae2QEAAAAd/bonk-dog.gif"}/>
           </a>
 
       </div>
 
       </div>
-        <p className="read-the-docs">
-            Click on the shit and learn more!
-        </p>
     </>
   )
 }
