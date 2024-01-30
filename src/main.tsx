@@ -9,7 +9,6 @@ import { FormEvent, useState } from 'react'
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <App />
-      <AlbumPicker />
   </React.StrictMode>,
 
 )
